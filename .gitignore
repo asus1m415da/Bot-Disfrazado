@@ -1,0 +1,9 @@
+node_modules/
+.env
+.replit
+.config/
+data/
+downloads/
+logs/
+*.log
+.DS_Store

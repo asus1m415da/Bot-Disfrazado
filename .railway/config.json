@@ -1,0 +1,17 @@
+{
+  "build": {
+    "dockerfilePath": "Dockerfile"
+  },
+  "deploy": {
+    "startCommand": "python3 bot.py"
+  },
+  "env": {
+    "CLIENT_ID": "1416796681751498905",
+    "DISCORD_TOKEN": "TOKEN_HERE",
+    "GEMINI_API_KEY": "AIzaSyBiYVJ9lS7-aLhgS3TVOpVWZoBE7sss6zQ",
+    "GOOGLE_CX_ID": "44c6e7dff1ca94032",
+    "LINKPREVIEW_API_KEY": "0e3e2c2a515622ea63193ee75659c276",
+    "PEXELS_API_KEY": "Nb74tA5tPOUHo1IGFr3MWJTo6CM2Q8DbJP3cytBiwKEQWoZo8zXDct5x",
+    "VT_API_KEY": "c843a9e7be941b85c7b35b9613b610337114510f9a620834b5c69367913edbd4"
+  }
+}

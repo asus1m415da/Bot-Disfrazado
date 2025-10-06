@@ -1,0 +1,43 @@
+{
+  "name": "discord-bot-multiproposito",
+  "version": "2.0.0",
+  "description": "Bot de Discord multipropósito con IA, descargas de YouTube, búsqueda de imágenes, análisis de enlaces y más",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "ai",
+    "gemini",
+    "youtube",
+    "downloader",
+    "virustotal",
+    "pexels",
+    "google-search"
+  ],
+  "author": "Elite-Rewards",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1",
+    "@google/generative-ai": "^0.2.1",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asus1m415da/Bot-Disfrazado"
+  }
+}
